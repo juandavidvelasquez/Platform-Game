@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a8725cbfb5a55ee44b7a263d18c9f26d
+timeCreated: 1504753818
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MACHINE GUN
+  fontNames:
+  - MACHINE GUN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

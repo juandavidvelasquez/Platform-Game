@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 034dd0e7c87a35943abfc08a8a65ac87
+timeCreated: 1504753816
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Liberty Island
+  fontNames:
+  - Liberty Island
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

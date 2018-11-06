@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f1aa4a209e244b4db5b7ad5a4297f96
+timeCreated: 1504753817
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 4114 Blaster Halftone
+  fontNames:
+  - 4114 Blaster Halftone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
