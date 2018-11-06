@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/JuanCarlos/Downloads/War In Platform-20181106T160446Z-001/War In
+    Platform/Assets/Escena/Plataforma1.unity
+  isLoaded: 1
+  isActive: 1
